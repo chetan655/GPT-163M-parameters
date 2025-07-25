@@ -61,7 +61,7 @@ train_dataloader = dataloader(
     num_workers=0
 )
 
-val_loader = dataloader(
+val_dataloader = dataloader(
     val_data,
     batch_size=2,
     max_length=cfg["context_length"],

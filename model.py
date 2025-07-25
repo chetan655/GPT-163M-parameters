@@ -121,7 +121,7 @@ class TransformerBlock(nn.Module):
         return x
     
 
-class GPTModel(nn.Module):
+class Model(nn.Module):
     def __init__(self, cfg):
         super().__init__()
 
