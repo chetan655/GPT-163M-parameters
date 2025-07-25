@@ -26,4 +26,4 @@ A minimal GPT-2 style transformer language model in PyTorch.
 
 ---
 
-For research and educational
+For research and educational purpose.
